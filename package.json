@@ -1,0 +1,22 @@
+{
+  "name": "gitiki-dev-content",
+  "version": "0.0.1",
+  "description": "GITIKI content source of truth - development repository.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "git+https://github.com/micrub/gitiki-dev-content.git",
+  "keywords": [
+    "GITIKI",
+    "development",
+    "content",
+    "template"
+  ],
+  "author": "Michael Rubanov <mrubanov@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/micrub/gitiki-dev-content/issues"
+  },
+  "homepage": "https://github.com/micrub/gitiki-dev-content#readme"
+}
